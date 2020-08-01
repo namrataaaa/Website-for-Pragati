@@ -245,5 +245,9 @@ body {
   #mycarousel, #carouselitems {
     height: 250px;
   }
+  
+  #myContainer {
+    margin: 8px;
+  }
 }
     
